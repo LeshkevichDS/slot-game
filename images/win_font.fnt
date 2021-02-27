@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+   <font>
+       <info aa='1' size='50' smooth='1' stretchH='100' bold='0' padding='0,0,0,0' spacing='0,0' charset='' italic='0' unicode='0' face='win_font'/>
+       <common scaleW='330' packed='0' pages='1' lineHeight='50' scaleH='51' base='54'/>
+       <pages>
+            <page id='0' file='win_font.png'/>
+       </pages>
+        <chars count='13'>
+            <char xadvance='11' x='2' chnl='0' yoffset='0' y='2' xoffset='0' id='32' page='0' height='0' width='0'/>
+            <char xadvance='10' x='8' chnl='0' yoffset='32' y='34' xoffset='1' id='44' page='0' height='15' width='10'/>
+            <char xadvance='11' x='22' chnl='0' yoffset='31' y='33' xoffset='1' id='46' page='0' height='12' width='11'/>
+            <char xadvance='27' x='36' chnl='0' yoffset='0' y='2' xoffset='2' id='48' page='0' height='43' width='27'/>
+            <char xadvance='20' x='66' chnl='0' yoffset='1' y='2' xoffset='1' id='49' page='0' height='42' width='20'/>
+            <char xadvance='26' x='90' chnl='0' yoffset='0' y='2' xoffset='2' id='50' page='0' height='43' width='25'/>
+            <char xadvance='27' x='120' chnl='0' yoffset='0' y='2' xoffset='2' id='51' page='0' height='43' width='26'/>
+            <char xadvance='25' x='150' chnl='0' yoffset='1' y='2' xoffset='1' id='52' page='0' height='42' width='27'/>
+            <char xadvance='27' x='182' chnl='0' yoffset='1' y='2' xoffset='2' id='53' page='0' height='42' width='27'/>
+            <char xadvance='28' x='212' chnl='0' yoffset='0' y='2' xoffset='2' id='54' page='0' height='43' width='27'/>
+            <char xadvance='20' x='242' chnl='0' yoffset='1' y='2' xoffset='1' id='55' page='0' height='42' width='22'/>
+            <char xadvance='27' x='268' chnl='0' yoffset='0' y='2' xoffset='2' id='56' page='0' height='43' width='27'/>
+            <char xadvance='28' x='298' chnl='0' yoffset='0' y='2' xoffset='2' id='57' page='0' height='43' width='27'/>
+       </chars>
+       <kernings count="7">
+            <kerning first="50" second="52" amount="-1"/>
+            <kerning first="53" second="50" amount="-1"/>
+            <kerning first="55" second="52" amount="-1"/>
+            <kerning first="53" second="55" amount="-1"/>
+            <kerning first="52" second="49" amount="-1"/>
+            <kerning first="53" second="49" amount="-1"/>
+            <kerning first="55" second="49" amount="1"/>
+       </kernings>
+   </font>
