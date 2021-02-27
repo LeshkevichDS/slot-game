@@ -1,4 +1,4 @@
-# Treasure Hunter Game
+# Slot Game
 
 <a href="https://leshkevichds.github.io/slot-game/">Deploy link</a>
 
